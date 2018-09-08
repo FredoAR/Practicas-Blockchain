@@ -1,0 +1,7 @@
+C:\Users\Y50\Desktop\fred_BlockChain_2\fred_BlockChain_2\obj\x64\Debug\fred_BlockChain_2.csproj.CoreCompileInputs.cache
+C:\Users\Y50\Desktop\fred_BlockChain_2\fred_BlockChain_2\bin\x64\Debug\fred_BlockChain_2.exe.config
+C:\Users\Y50\Desktop\fred_BlockChain_2\fred_BlockChain_2\bin\x64\Debug\fred_BlockChain_2.exe
+C:\Users\Y50\Desktop\fred_BlockChain_2\fred_BlockChain_2\bin\x64\Debug\fred_BlockChain_2.pdb
+C:\Users\Y50\Desktop\fred_BlockChain_2\fred_BlockChain_2\obj\x64\Debug\fred_BlockChain_2.csprojAssemblyReference.cache
+C:\Users\Y50\Desktop\fred_BlockChain_2\fred_BlockChain_2\obj\x64\Debug\fred_BlockChain_2.exe
+C:\Users\Y50\Desktop\fred_BlockChain_2\fred_BlockChain_2\obj\x64\Debug\fred_BlockChain_2.pdb
